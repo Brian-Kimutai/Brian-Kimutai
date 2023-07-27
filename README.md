@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @Brian-Kimutai
-- 👀 I’m interested in Bioinformatics 
-- 🌱 I’m currently learning coding
-- 💞️ I’m looking to collaborate on molecular projects
+- 👋 Hi, I’m Brian-Kimutai
+- 👀 I’m interested in Human Health Research
+- 🌱 I’m currently learning Bioinformatics 
 
 
 <!---
