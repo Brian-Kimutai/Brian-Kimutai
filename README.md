@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Brian-Kimutai
 - 👀 I’m interested in Human Health Research
-- 🌱 I’m currently learning Bioinformatics 
 
 
 <!---
